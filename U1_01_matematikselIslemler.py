@@ -36,22 +36,4 @@ print(64**0.5)
 
 print(8**(1/3))
 
-str = "Python programlama dili cok pratik bir dil"
 
-print(str[3:15:2])
-
-print(str[3:])
-
-print(str[:12])
-
-#2 ser atlayarak yazdir
-
-print(str[::2])
-
-#stringi tersten yazdir
-
-print(str[::-1])
-
-#len int olarak stringin uzunlugunu dondurur
-
-print(len(str))
