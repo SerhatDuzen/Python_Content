@@ -30,8 +30,10 @@ print(*"JavaPythonc#",sep='_') #J_a_v_a_P_y_t_h_o_n_c_#
 a = 43
 b = 87
 print("{} ile {} nin toplami {} dir.".format(a,b,a+b)) #43 ile 87 nin toplami 130 dir.
+
 #suslu parantezlere formatta verilen parametrelerin indexleri yazilabilir
 print("{1} adli ogrencinin vize notu {2} dir\nFinal notu {0} dir".format(b,"Ali",a))
+
 
 
 

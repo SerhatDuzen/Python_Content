@@ -22,11 +22,11 @@ print(d)
 #Stringi int e ya da float a cevirmek
 
 a = "12345678h"
-#a = int(a) hata verir
+#a = int(a) hata verir cunku stringin icersinde sayi disinda bir karakter bulunmakta
 b = '12387653241'
 b = int(b)
 print(b)
 c = '56.654453'
 c = float(c)
-print(c)
+print(c) #56.654453 ciktisini verir
 
