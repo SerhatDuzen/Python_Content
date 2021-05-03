@@ -13,8 +13,8 @@ print(a,"Ankara",b,88.5) # aralarinda auto olarak bir space vererek yazdirir
 print("Ankara\nIstanbul\tIzmir")
 
 #type fonksiyonu aldigi parametrenin hangi tipte oldugunu dondurur
-type("Murat") #str dondurur
-type(321) #int dondurur
+print(type("Murat")) #str dondurur
+print(type(321)) #int dondurur
 r = type(54.3)
 print(r) #<class 'float'> yazdirir
 
