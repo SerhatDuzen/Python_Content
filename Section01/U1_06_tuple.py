@@ -13,4 +13,4 @@ demet2 = ("Istanbul","Ankara","Izmir")
 print(demet2.index("Izmir"))
 #print(demet2.index("Van")) olmayan deger hata cikarir
 
-#read only liste tipidir
+#read only liste tipidir 123
