@@ -18,3 +18,12 @@ liste2 = [{5,6}, {7,3}, {9,2}]
 
 for (i,j) in liste2:
     print(i*j)
+    
+#range araligi verilerek her sayiya bir islem yapilabilir
+
+myList = list()
+
+for i in range(0,105,5):
+    myList.append(i)
+
+print(myList)
