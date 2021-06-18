@@ -6,7 +6,7 @@
 #else opsiyoneldir. else olmadiginda ve hicbi kosul durumu true olmadiginda
 #hicbir kod calismayacaktir
 
-#notortalamasi = float(input("Notunuzu yaziniz:"))
+
 notortalamasi = int(input("Lutfen notunuzu giriniz: "))
 if notortalamasi >= 90:
     print("AA")

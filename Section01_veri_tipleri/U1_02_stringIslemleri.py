@@ -1,6 +1,6 @@
 str = "Python programlama dili cok pratik bir dil"
 
-print(str[3:15:2])
+print(str[3:15:2]) # 3 uncu satirdan basla 15 inci satira kadar 15 dahil olmadan 2 ser atlayarak yazdir
 
 print(str[3:])
 

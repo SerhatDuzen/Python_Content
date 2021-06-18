@@ -11,7 +11,7 @@ print(a)
 a = 5
 
 b = 7
-#print("a nin degeri = "+a+"/nb nin degeri"+b)
+print("a nin degeri = ",a,"\nb nin degeri",b)
 
 #a ile b nin degerlerinin biribirleri ile degistirilmesi
 a,b = b,a
